@@ -1,5 +1,5 @@
 # vue-lunch-n-learn
-
+![rollr-screenshot](src/assets/screen.png)
 ## Project setup
 ```
 yarn install
