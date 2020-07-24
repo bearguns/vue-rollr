@@ -1,4 +1,4 @@
-# vue-lunch-n-learn
+# Rollr - Your First VueJS App!
 ![rollr-screenshot](src/assets/screen.png)
 ## Project setup
 ```
