@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Space+Mono:wght@700&display=swap');
+
+// Color Scheme
+$background : #3b4252;
+$foreground : #D8DEE9;
+$green : #8FBCBB;
+$blue : #88C0D0;
+
+// Typography
+$font-size-1 : 2.25rem;
+$font-size-2 : 2rem;
+$font-size-3 : 1.75rem;
+$font-size-4 : 1.5rem;
+$font-size-5 : 1.25rem;
+$font-size-6 : 1rem;
+
+html {
+    box-sizing: border-box;
+}
+
+*,*::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 0px;
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vw;
+    background: $background;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Mono';
+}
+
+p, span, a, button {
+    font-family: 'Roboto';
+}
