@@ -828,6 +828,28 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@fortawesome/fontawesome-common-types@^0.2.30":
+  version "0.2.30"
+  resolved "https://npm.fontawesome.com/@fortawesome/fontawesome-common-types/-/0.2.30/fontawesome-common-types-0.2.30.tgz#2f1cc5b46bd76723be41d0013a8450c9ba92b777"
+  integrity sha512-TsRwpTuKwFNiPhk1UfKgw7zNPeV5RhNp2Uw3pws+9gDAkPGKrtjR1y2lI3SYn7+YzyfuNknflpBA1LRKjt7hMg==
+
+"@fortawesome/fontawesome-pro@^5.14.0":
+  version "5.14.0"
+  resolved "https://npm.fontawesome.com/@fortawesome/fontawesome-pro/-/5.14.0/fontawesome-pro-5.14.0.tgz#0fef6462ad9450211cfbf6ce3f6e9bb8353a4982"
+  integrity sha512-mdxmCa8yHPXaM5WTRskL1iQf6JObI+l7R0Qa0/u9QOpmRUBkv1g/B3q+YQPaQmZOUy/5gZD9iwun5x4IELusWA==
+
+"@fortawesome/pro-light-svg-icons@^5.14.0":
+  version "5.14.0"
+  resolved "https://npm.fontawesome.com/@fortawesome/pro-light-svg-icons/-/5.14.0/pro-light-svg-icons-5.14.0.tgz#4a0614a7496b71fbe6d326723a9eaf08eb988960"
+  integrity sha512-g/jIMvaXtGU8/e2JPFiAfacHTJ9qjsutbGvlIuG3MCFxGI6CbWC2W4wcMcHgvIgsFbyr7Nvv8jDGO4q1SubLTQ==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.30"
+
+"@fortawesome/vue-fontawesome@^0.1.10":
+  version "0.1.10"
+  resolved "https://npm.fontawesome.com/@fortawesome/vue-fontawesome/-/0.1.10/vue-fontawesome-0.1.10.tgz#eeeec1e4e8850bed0468f938292b06cda793bf34"
+  integrity sha512-b2+SLF31h32LSepVcXe+BQ63yvbq5qmTCy4KfFogCYm2bn68H5sDWUnX+U7MBqnM2aeEk9M7xSoqGnu+wSdY6w==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
