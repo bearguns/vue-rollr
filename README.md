@@ -1,6 +1,10 @@
 # Rollr - Your First VueJS App!
 ![rollr-screenshot](src/assets/screen.png)
 ## Project setup
+### Requirements
+- Node v12 or above
+- Yarn ‘$ npm i -g yarn’
+### Installing dependencies
 ```
 yarn install
 ```
